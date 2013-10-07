@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		85526D9C1802580200B5E7DB /* Demo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 85526D9B1802580200B5E7DB /* Demo1.jpg */; };
+		85526D9E1802619A00B5E7DB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 85526D9D1802619A00B5E7DB /* README.md */; };
 		8552F0ED1801A415002F85FF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8552F0EC1801A415002F85FF /* Foundation.framework */; };
 		8552F0EF1801A415002F85FF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8552F0EE1801A415002F85FF /* CoreGraphics.framework */; };
 		8552F0F11801A415002F85FF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8552F0F01801A415002F85FF /* UIKit.framework */; };
@@ -58,6 +59,7 @@
 
 /* Begin PBXFileReference section */
 		85526D9B1802580200B5E7DB /* Demo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Demo1.jpg; sourceTree = "<group>"; };
+		85526D9D1802619A00B5E7DB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		8552F0E91801A415002F85FF /* PParallax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PParallax.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8552F0EC1801A415002F85FF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8552F0EE1801A415002F85FF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -163,6 +165,7 @@
 		8552F0F21801A415002F85FF /* PParallax */ = {
 			isa = PBXGroup;
 			children = (
+				85526D9D1802619A00B5E7DB /* README.md */,
 				8552F15E1801C767002F85FF /* PullRefresh */,
 				8552F1471801A700002F85FF /* Classes */,
 				8552F0FB1801A415002F85FF /* AppDelegate.h */,
@@ -333,6 +336,7 @@
 				8552F0F71801A415002F85FF /* InfoPlist.strings in Resources */,
 				8552F13F1801A65B002F85FF /* recommend_tab_background@2x.png in Resources */,
 				8552F1331801A65B002F85FF /* invite_selected@2x.png in Resources */,
+				85526D9E1802619A00B5E7DB /* README.md in Resources */,
 				8552F1421801A65B002F85FF /* tab_background.png in Resources */,
 				8552F13B1801A65B002F85FF /* myprofits@2x.png in Resources */,
 				8552F1361801A65B002F85FF /* market_mission.png in Resources */,
